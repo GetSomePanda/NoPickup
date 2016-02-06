@@ -1,0 +1,11 @@
+#NoPickup config file by GetSomePanda
+#Do not change this version number.
+version : 1.0
+
+#Allow the permissions or remove them ?
+#true/false
+permissionsOn : 'true'
+
+#List of blocked items using itemIDs
+blockedItems :
+  - 7

@@ -1,0 +1,7 @@
+name: NoPickup
+main: me.getsomepanda.nopickup.Main
+version: 1.0
+commands:
+   nopickup:
+      description: NoPickup Information.
+      usage: /nopickup  
